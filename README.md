@@ -11,7 +11,12 @@
 [Описание данных](data_description.md)
 
 ## Основной baseplain:
+
 https://github.com/MariaAltisheva/hackathon/blob/main/DC_team_5.ipynb
+
+## Презентация:
+
+https://docs.google.com/presentation/d/1PE2hwT6_obFj18qIl-fcInDLH_cO0Hslj-w15GeXdgg/edit#slide=id.p 
 
 ## Работа с пропусками
 1. Удалены столбцы Unnamed: 0.1, Drug_dose, NP_concentration, fold_increase_in_antibacterial_activity.
@@ -24,22 +29,31 @@ https://github.com/MariaAltisheva/hackathon/blob/main/DC_team_5.ipynb
 8. Были подсчитаны все дескрипторы для всех молекул антибиотиков.
 
 ## Корреляция признаков итогового датасета
+
 До удаления сильно коррелирующих признаков
+
 ![Корреляция 1](kor_1.png)
+
 После удаления сильно коррелирующих признаков, добавления новых дескрипторов
+
 ![Корреляция 2](kor_2.png)
 
 ## Анализ метрик предсказания различных моделей МО
+
 ![Метрики](metrics.png)
 
 ## Метрики качества модели GradientBoostingRegressor
+
 До удаления ['fr_nitro_arom', 'MDR_check'] 
+
 ![Метрика 1](met1.png)
 
 После удаления ['fr_nitro_arom', 'MDR_check']
+
 ![Метрика 2](met2.png)
 
 ## Влияние фич на качество прогноза модели GradientBoostingRegressor
+
 ![Фичи 2](fitches.png)
 
 ##
