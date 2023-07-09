@@ -38,3 +38,5 @@
 
 ## Влияние фич на качество прогноза модели GradientBoostingRegressor
 ![Фичи 2](fitches.png)
+
+##
