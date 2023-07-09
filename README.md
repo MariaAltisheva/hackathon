@@ -10,6 +10,9 @@
 
 [Описание данных](data_description.md)
 
+## Основной baseplain:
+https://github.com/MariaAltisheva/hackathon/blob/main/DC_team_5.ipynb
+
 ## Работа с пропусками
 1. Удалены столбцы Unnamed: 0.1, Drug_dose, NP_concentration, fold_increase_in_antibacterial_activity.
 2. Объединялись датасеты по колонкам Drug и Bacteria
