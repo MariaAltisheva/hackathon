@@ -56,4 +56,6 @@ https://docs.google.com/presentation/d/1PE2hwT6_obFj18qIl-fcInDLH_cO0Hslj-w15GeX
 
 ![Фичи 2](fitches.png)
 
-##
+## Кросс-валидация
+
+![кросс2](cross.png)
